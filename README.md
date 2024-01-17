@@ -5,10 +5,6 @@
 <img align = "right" width = 400 alt = "Coding" src = "https://openseauserdata.com/files/37ce95619442dd6f4c657d1fe6752c5b.gif">
 
 
-
-
-- 🔭 I’m currently working on **A Travel App**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 
