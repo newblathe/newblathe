@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prasuk Jain</h1>
 <h3 align="center">🕹️ Leveling up in games and code simultaneously 🚀</h3>
 
-- 🔭 I’m currently working on **Facial Recognition model**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Machine Learning**
 
