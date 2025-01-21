@@ -1,56 +1,56 @@
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQyaG9ib3B2Mm9mN2Zha3ozNWJwZXJyeXpyZXpqMW50eDRibTJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5BcXR735vDQ0aYOHQ/giphy.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQyaG9ib3B2Mm9mN2Zha3ozNWJwZXJyeXpyZXpqMW50eDRibTJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5BcXR735vDQ0aYOHQ/giphy.gif" />
 
-###
-
-<h1 align="center">Hey there 👋, I am Prasuk Jain</h1>
-
-###
+# Hey there 👋, I'm Prasuk Jain  
 
 <div align="right">
-  <a href="www.linkedin.com/in/newblathe">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/newblathe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="jainprasuklm10@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:jainprasuklm10@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 👩‍💻 About Me  
 
-<h1 align="left">👩‍💻  About Me</h1>
+I'm a machine learning engineer at the beginning of an exciting journey into this rapidly evolving field. I focus on building foundational skills in developing machine learning models and the systems that support them.  
 
-###
+My interests include creating simple yet effective ML pipelines that process data and deliver meaningful insights. I'm passionate about:  
+- **Data preprocessing**  
+- **Model training**  
+- **Deployment strategies**  
+- **Reinforcement Learning**  
+- **Explainable AI**  
 
-<p align="left">I'm a machine learning engineer starting my journey into this exciting and rapidly growing field. I'm building foundational skills in developing machine learning models and understanding the systems that support them.<br><br>I focus on learning how to create simple yet effective machine learning pipelines that process data and deliver meaningful results. I'm passionate about exploring topics like data preprocessing, model training, and deployment strategies, as well as discovering emerging areas like Reinforcement Learning and Explainable AI. As I grow, I'm eager to take on challenges, learn new techniques, and contribute to impactful projects.</p>
+As I grow, I'm eager to tackle challenges, explore innovative techniques, and contribute to impactful projects.
 
-###
+---
 
-<h1 align="left">🔥 Rapid Fire</h1>
+## 🔥 Rapid Fire  
 
-###
+- 🔭 **I’m currently working on:**  
+  Exciting machine learning and reinforcement learning projects.  
+- 📚 **I'm currently learning:**  
+  Neural Networks, Natural Language Processing, and Linux.  
+- ⚡ **In my free time, I enjoy:**  
+  Video games, exploring music, watching football, and learning to play the piano.  
 
-<p align="left">- 🔭 I’m currently working on ...<br>- 📚 I'm currently learning Neural Networks, Natural Language Processing, Linux<br>- ⚡ In my free time, I enjoy immersing myself in video games, exploring music, watching football, and learning to play the piano.</p>
+---
 
-###
+## 🛠 Languages and Tools  
 
-<h1 align="left">🛠 Language and tools</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </div>
-
-###
