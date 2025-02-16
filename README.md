@@ -11,9 +11,10 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring Machine Learning Engineer passionate about building intelligent systems and exploring the exciting intersections of AI. My focus is on developing machine learning pipelines, from data preprocessing to model training, while continuously improving my understanding of the systems that support them.
 
-I'm particularly interested in Reinforcement Learning and discovering new techniques to make models more adaptive and efficient. Whether it's training models, optimizing performance, or tackling real-world challenges, I'm always eager to learn and grow.
+I'm passionate about building intelligent systems and exploring the exciting intersections of AI and Data Science. My focus is on developing end-to-end machine learning pipelines, from data preprocessing to model training, while also understanding the underlying systems that support them.
+
+I'm particularly interested in Reinforcement Learning, working on techniques to make models more adaptive and efficient. At the same time, I enjoy analyzing data, uncovering insights, and building predictive models to solve real-world challenges. Whether it's training AI agents, optimizing models, or extracting valuable insights from data, I'm always eager to learn, experiment, and grow.
 ## 🔥 Rapid Fire
 
 - 🔭 **I’m currently working on:**  
