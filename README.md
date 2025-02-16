@@ -15,11 +15,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a beginner machine learning engineer starting my journey into this exciting and rapidly growing field. I'm building foundational skills in developing machine learning models and understanding the systems that support them.
+I'm an aspiring Machine Learning Engineer passionate about building intelligent systems and exploring the exciting intersections of AI. My focus is on developing machine learning pipelines, from data preprocessing to model training, while continuously improving my understanding of the systems that support them.
 
-I focus on learning how to create simple yet effective machine learning pipelines that process data and deliver meaningful results. I'm passionate about exploring topics like data preprocessing, model training, and deployment strategies, as well as discovering emerging areas like Reinforcement Learning and Explainable AI. As I grow, I'm eager to take on challenges, learn new techniques, and contribute to impactful projects.
-
-
+I'm particularly interested in Reinforcement Learning and discovering new techniques to make models more adaptive and efficient. Whether it's training models, optimizing performance, or tackling real-world challenges, I'm always eager to learn and grow.
 ## 🔥 Rapid Fire
 
 - 🔭 **I’m currently working on:**  
