@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQyaG9ib3B2Mm9mN2Zha3ozNWJwZXJyeXpyZXpqMW50eDRibTJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5BcXR735vDQ0aYOHQ/giphy.gif" height="200" alt="Hi there GIF" />
-</div>
-
 # Hey there 👋, I'm Prasuk Jain
 
 <div align="right">
@@ -42,4 +38,11 @@ I'm particularly interested in Reinforcement Learning and discovering new techni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+</div>
+
+
+
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQyaG9ib3B2Mm9mN2Zha3ozNWJwZXJyeXpyZXpqMW50eDRibTJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5BcXR735vDQ0aYOHQ/giphy.gif" height="200" alt="Hi there GIF" />
 </div>
