@@ -22,7 +22,7 @@ I'm particularly interested in Reinforcement Learning, working on techniques to 
 - 📚 **I'm currently learning:**  
   Meta - RL, and Linux.  
 - ⚡ **In my free time, I enjoy:**  
-  Video games, exploring music, watching football, and learning to play the piano.
+  Video games, exploring music, watching football.
   
 
 ## 🛠 Languages and Tools
