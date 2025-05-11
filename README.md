@@ -23,7 +23,7 @@ Recently, I've been exploring:
 ## 🛠 Tech Stack
 
 ### Languages & Libraries  
-Python, Data Structures, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, XGBoost, Stable-Baselines, Librosa, NLTK, Gensim (Word2Vec), SBERT (Sentence-BERT)
+Python, Data Structures, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, XGBoost, Stable-Baselines3, Librosa, NLTK, Gensim (Word2Vec), SBERT (Sentence-BERT)
 
 ### ML Techniques & Domains  
 Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, Meta-Learning, Generative AI, Computer Vision, Natural Language Processing (NLP), Automatic Speech Recognition (ASR)
