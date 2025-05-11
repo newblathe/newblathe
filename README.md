@@ -9,34 +9,34 @@
   </a>
 </div>
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
+I'm a Machine Learning and Data Science enthusiast with hands-on experience in building intelligent systems across deep learning, computer vision, natural language processing, and speech recognition. I primarily work with Python and have experience using frameworks such as **TensorFlow**, **PyTorch**, and **OpenCV**, along with tools like **Docker** and **AWS**.
 
+I'm currently pursuing my **B.Tech in Computer Science and Technology** at **MAIT**, and I'm always open to contributing to impactful AI projects, research collaborations, or open-source work.
 
-I'm passionate about building intelligent systems and exploring the exciting intersections of AI and Data Science. My focus is on developing end-to-end machine learning pipelines, from data preprocessing to model training, while also understanding the underlying systems that support them.
+## 🔍 Key Interests  
+Recently, I've been exploring:
+- **Generative AI** and **Large Language Models (LLMs)**, particularly in retrieval-augmented and context-aware applications  
+- **Meta-Reinforcement Learning** and few-shot generalization in adaptive environments  
+- Building scalable **machine learning pipelines** and full-stack **AI workflows**
 
-I'm particularly interested in Reinforcement Learning, working on techniques to make models more adaptive and efficient. At the same time, I enjoy analyzing data, uncovering insights, and building predictive models to solve real-world challenges. Whether it's training AI agents, optimizing models, or extracting valuable insights from data, I'm always eager to learn, experiment, and grow.
-## 🔥 Rapid Fire
+## 🛠 Tech Stack
 
-- 🔭 **I’m currently working on:**  
-  Exciting machine learning and reinforcement learning projects.  
-- 📚 **I'm currently learning:**  
-  Meta - RL, and Linux.  
-- ⚡ **In my free time, I enjoy:**  
-  Video games, exploring music, watching football.
-  
+### Languages & Libraries  
+Python, Data Structures, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, XGBoost, Stable-Baselines, Librosa, NLTK, Gensim (Word2Vec), SBERT (Sentence-BERT)
 
-## 🛠 Languages and Tools
+### ML Techniques & Domains  
+Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, Meta-Learning, Generative AI, Computer Vision, Natural Language Processing (NLP), Automatic Speech Recognition (ASR)
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
-</div>
+### Model Architectures & Algorithms  
+CNNs, RNNs, LSTMs, ANNs, CRNNs, Siamese Networks, PPO
+
+### Frameworks, Models & APIs
+TensorFlow, PyTorch, Keras, Whisper, Hugging Face Transformers
+
+### Tools & Infrastructure  
+OpenCV, Jupyter Notebook, Google Colab, Linux, SQL, DBMS, Docker, AWS, Git, GitHub
+
+### Additional Interests  
+Generative AI & LLMs (OpenAI, LLaMA, LangChain, Prompt Engineering, RAG Pipelines), Meta-Learning, Few-Shot Learning, Text-to-Action Systems, REST APIs, Flask
+
